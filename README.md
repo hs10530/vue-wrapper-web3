@@ -114,7 +114,3 @@ export { useWeb3 };
 <br />
 ---
 <br />
-
-Demo (Nuxt 2): https://github.com/KABBOUCHI/nuxt-vue-web3
-
-Demo (Nuxt 3): https://github.com/KABBOUCHI/nuxt3-vue-web3
